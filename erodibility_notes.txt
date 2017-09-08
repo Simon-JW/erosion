@@ -1,2 +1,3 @@
-Notes about nomograph scripts
-Create a list of abbreviations.
+The scripts contained in this folder are all written to work alongside ESRI ArcGIS software. This means they are coded to run on Python 2.7 and make use of the arcpy import module.
+
+
