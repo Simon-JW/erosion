@@ -1,0 +1,2 @@
+Notes about nomograph scripts
+Create a list of abbreviations.
