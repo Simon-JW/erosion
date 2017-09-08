@@ -1,5 +1,5 @@
 #-------------------------------------------------------------------------------
-# Name:        module1
+# Name:        gauss-jordan elimination.
 # Purpose:
 #
 # Author:      Simon Walker
@@ -8,6 +8,12 @@
 # Copyright:   (c) Simon Walker 2017
 # Licence:     <your licence>
 #-------------------------------------------------------------------------------
+#This script demonstrates the use of linearization on a given 3 x 3 input
+# matrix where the first three columns of each row represent the three soil
+# attributes as input for the nomograph and the final column is the nomograph
+#solution. All three rows should be taken from some sufficiently narrow interval
+# along the y axis of the nomograph such that the curves occurring in the
+# corresponding horizontal band are can be taken to be essentially linear.
 
 import time; t0 = time.time()
 
